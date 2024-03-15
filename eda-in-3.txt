@@ -1,0 +1,19 @@
+
+Insight 3: Unique Values
+age            77
+job            12
+marital         3
+education       4
+default         2
+balance      7168
+housing         2
+loan            2
+contact         3
+day            31
+month          12
+duration     1573
+campaign       48
+pdays         559
+previous       41
+poutcome        4
+deposit         2
